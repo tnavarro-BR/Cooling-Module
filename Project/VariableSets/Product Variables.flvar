@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="Version"
+    EvaluatedDefinition="1.0">1.0</Variable>
+  <Variable
+    Name="Year"
+    EvaluatedDefinition="2021">2021</Variable>
+  <Variable
+    Name="Running H/F 1">|</Variable>
+  <Variable
+    Name="Running H/F 3"
+    EvaluatedDefinition="|  CHEF Cooling Module">|  CHEF Cooling Module</Variable>
+  <Variable
+    Name="Running H/F 2"></Variable>
+  <Variable
+    Name="Running H/F 4"
+    EvaluatedDefinition="Instruction Manual  |">Instruction Manual  |</Variable>
+  <Variable
+    Name="Short Product Name"
+    Comment=""
+    EvaluatedDefinition="Cooling Module">Cooling Module</Variable>
+  <Variable
+    Name="Short Software Name"
+    Comment=""
+    EvaluatedDefinition="Short Software Name">Short Software Name</Variable>
+  <Variable
+    Name="Long Product  Name"
+    Comment=""
+    EvaluatedDefinition="CHEF Cooling Module">CHEF Cooling Module</Variable>
+</CatapultVariableSet>

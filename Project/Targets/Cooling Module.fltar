@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterStylesheet="/Content/Resources/BioRad_Templates/Bio-Rad style sheet.css"
+  PreCompileScaledImages="false"
+  ExcludeUnreferencedContent="false"
+  Medium="print"
+  InjectEmptyPages="true"
+  PatchHeadingLevels="false"
+  InjectBookHeadings="false"
+  MasterToc="/Project/TOCs/Cooling Module Instruction Manual.fltoc"
+  MasterPageLayout="/Content/Resources/BioRad_Templates/Bio-Rad 8.5x11 PDF PageLayout.flpgl"
+  ConditionTagExpression="exclude[Default.Writer's_Comments or Default.Writer's_Questions]">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    OutputFormat="doc" />
+  <Glossaries />
+  <DocumentProperties
+    Title="Cooling Module Instruction Manual"
+    Author="Bio-Rad Laboratories, Inc." />
+  <PDF
+    ConvertToCMYK="false"
+    InitialMagnification="Fit"
+    PageLayout="SinglePage"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true"
+    ShowUsedBookmarks="false"
+    ConvertBookmarks="true" />
+</CatapultTarget>

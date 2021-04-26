@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/TitlePage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="title"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/BioRad_Templates/Bio-Rad 8.5x11 FrontMatter PageLayout.flpgl">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Tech Support.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Copyright_Info.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/RevisionHistory_Template.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="right"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/BioRad_Templates/Bio-Rad 8.5x11 PDF PageLayout.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    PageNumberFormat="lower-roman" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Table of Contents.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/BioRad_Templates/Bio-Rad 8.5x11 TableOfContents PageLayout.flpgl"
+    PageNumberFormat="lower-roman" />
+  <TocEntry
+    Title="Cooling Module"
+    Link="/Content/Cooling Module/Cooling Module.htm"
+    BreakType="chapter"
+    PageType="right"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/BioRad_Templates/Bio-Rad 8.5x11 PDF PageLayout.flpgl"
+    PageNumberFormat="decimal"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Blank Page for Printing Only.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    StartSection="false" />
+</CatapultToc>
