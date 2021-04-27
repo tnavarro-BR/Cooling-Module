@@ -48,6 +48,9 @@
     PageNumberFormat="decimal"></TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
+    Link="/Content/Cooling Module/Cooling Module_2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
     Link="/Content/Blank Page for Printing Only.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
     StartSection="false" />
 </CatapultToc>
